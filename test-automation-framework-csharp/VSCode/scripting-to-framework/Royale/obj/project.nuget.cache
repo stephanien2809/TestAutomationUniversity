@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJrAPUGtKbOb5gBMix6j8sdSpjiYgGp7LOCh0y7MZIjzaTrU5I6f0mzBnrtavr9alP1xOPXC3qS7EBgW+Yt35Q==",
+  "success": true,
+  "projectFilePath": "D:\\development\\MyGitHub\\TestAutomationUniversity\\test-automation-framework-csharp\\VSCode\\scripting-to-framework\\Royale\\Royale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SNayager632.SIG\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SNayager632.SIG\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

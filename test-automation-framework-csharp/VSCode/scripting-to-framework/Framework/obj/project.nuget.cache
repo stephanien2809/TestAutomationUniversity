@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FsRxTVH953dY29meLRpane0JQ0sMOLsFM5kXu7H/2Ulu1s0ao353Oi+BIMZUEB9DVmHcmViLctPhq1x3nxn9AA==",
+  "success": true,
+  "projectFilePath": "D:\\development\\MyGitHub\\TestAutomationUniversity\\test-automation-framework-csharp\\VSCode\\scripting-to-framework\\Framework\\Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SNayager632.SIG\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SNayager632.SIG\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
