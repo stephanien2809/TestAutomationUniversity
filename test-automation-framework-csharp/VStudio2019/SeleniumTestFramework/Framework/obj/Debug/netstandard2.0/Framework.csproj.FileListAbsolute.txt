@@ -1,0 +1,8 @@
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Framework\bin\Debug\netstandard2.0\Framework.deps.json
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Framework\bin\Debug\netstandard2.0\Framework.dll
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Framework\bin\Debug\netstandard2.0\Framework.pdb
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Framework\obj\Debug\netstandard2.0\Framework.csproj.CoreCompileInputs.cache
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Framework\obj\Debug\netstandard2.0\Framework.AssemblyInfoInputs.cache
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Framework\obj\Debug\netstandard2.0\Framework.AssemblyInfo.cs
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Framework\obj\Debug\netstandard2.0\Framework.dll
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Framework\obj\Debug\netstandard2.0\Framework.pdb

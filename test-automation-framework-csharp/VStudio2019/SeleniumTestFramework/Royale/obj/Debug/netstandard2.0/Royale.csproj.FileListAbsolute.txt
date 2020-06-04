@@ -1,0 +1,12 @@
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\bin\Debug\netstandard2.0\Royale.deps.json
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\bin\Debug\netstandard2.0\Royale.dll
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\bin\Debug\netstandard2.0\Royale.pdb
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\bin\Debug\netstandard2.0\Framework.dll
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\bin\Debug\netstandard2.0\Framework.pdb
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\obj\Debug\netstandard2.0\Royale.csprojAssemblyReference.cache
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\obj\Debug\netstandard2.0\Royale.csproj.CoreCompileInputs.cache
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\obj\Debug\netstandard2.0\Royale.AssemblyInfoInputs.cache
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\obj\Debug\netstandard2.0\Royale.AssemblyInfo.cs
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\obj\Debug\netstandard2.0\Royale.csproj.CopyComplete
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\obj\Debug\netstandard2.0\Royale.dll
+D:\development\MyGitHub\test-automation-framework-csharp\VStudio2019\SeleniumTestFramework\Royale\obj\Debug\netstandard2.0\Royale.pdb
