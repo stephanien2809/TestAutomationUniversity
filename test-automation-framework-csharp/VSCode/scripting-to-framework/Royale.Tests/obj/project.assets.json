@@ -1313,7 +1313,7 @@
       ]
     },
     "Microsoft.DotNet.InternalAbstractions/1.0.0": {
-      "sha512": "S8f3mnSN4yNYafvMEuZKz3VSSv49BQahI6Ibmx9ryuc+7EQ3QsTt4rSvrazwoX2qcLhkPpDV/wLW7yDK6nyuFA==",
+      "sha512": "AAguUq7YyKk3yDWPoWA8DrLZvURxB/LrDdTn1h5lmPeznkFUpfC3p459w5mQYQE0qpquf/CkSQZ0etiV5vRHFA==",
       "type": "package",
       "path": "microsoft.dotnet.internalabstractions/1.0.0",
       "files": [
@@ -1360,11 +1360,12 @@
       ]
     },
     "Microsoft.NETCore.Targets/1.1.0": {
-      "sha512": "Y0BUgwOCeMECZ6CKCEE+z6/gDr+uRRmwAprhkDqXwsPxXyGfD+ltFpXJuwg/ovAdmPWSoQ8QUVXpQ4Ol0rrCYg==",
+      "sha512": "aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "type": "package",
       "path": "microsoft.netcore.targets/1.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -1662,7 +1663,7 @@
       ]
     },
     "NETStandard.Library/2.0.0": {
-      "sha512": "49ZAcrnNn56GIJwGoiaI7NpwcEJ8mjUyfSqVYIJMDhOBzPe8HSHS74swF2H0v8fzj7pxLfcYjS9P5PdIqsTQxw==",
+      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
       "type": "package",
       "path": "netstandard.library/2.0.0",
       "files": [
@@ -1896,11 +1897,12 @@
       ]
     },
     "runtime.native.System/4.3.0": {
-      "sha512": "370+6h3c62smX9P0hOXZXhNJDywSKoAqDscLRJZjQBYKhiaWbVoPhFs5JGVFyrrsa3NxuExUBt8WiYvr8KjZ6w==",
+      "sha512": "c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
       "type": "package",
       "path": "runtime.native.system/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -2202,7 +2204,7 @@
       ]
     },
     "System.ComponentModel.EventBasedAsync/4.3.0": {
-      "sha512": "SXx4bOoSfWE1TIq7RyY7GhIL8W1ueW+xHQApV7bkWs42eDZUwfPgct5tv3jZkWRkvQ8JjWF1ab1d1lFwqYPE+Q==",
+      "sha512": "fCFl8f0XdwA/BuoNrVBB5D0Y48/hv2J+w4xSDdXQitXZsR6UCSOrDVE7TCUraY802ENwcHUnUCv4En8CupDU1g==",
       "type": "package",
       "path": "system.componentmodel.eventbasedasync/4.3.0",
       "files": [
@@ -2623,11 +2625,12 @@
       ]
     },
     "System.Globalization.Extensions/4.3.0": {
-      "sha512": "2ccwOnLfwo/euBiZosdPXnF9Ukw9ByR+ffkd6cT8+gSzt0940R8wJuJrDZVmV/1xiHy8uuGyIRdphdt2JIZPJw==",
+      "sha512": "FhKmdR6MPG+pxow6wGtNAWdZh7noIOpdD5TwQ3CprzgIE1bBBoim0vbR1+AWsWjQmU7zXHgQo4TWSP6lCeiWcQ==",
       "type": "package",
       "path": "system.globalization.extensions/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3123,11 +3126,12 @@
       ]
     },
     "System.Reflection.Emit/4.3.0": {
-      "sha512": "JufhtUoyYhl9hLnc99whdMIO2uX124IagCpNxx9F28LLR+cuBDWeDqL1WNWQU/ovYvb3lPBvpxKajckPbsWfNw==",
+      "sha512": "228FG0jLcIwTVJyz8CLFKueVqQK36ANazUManGaJHkO0icjiIypKW7YLWLIWahyIkdh5M7mV2dJepllLyA1SKg==",
       "type": "package",
       "path": "system.reflection.emit/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3158,11 +3162,12 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.3.0": {
-      "sha512": "An/184aBHxX9s9gIwUVpNhcMexSL2yBCUsVX2Yys+VBlc9WXNxWnsJUUsR9TfpxCR5KHK5AwejGXgVE0wV4K0w==",
+      "sha512": "59tBslAk9733NXLrUJrwNZEzbMAcu8k344OYo+wfSVygcgZ9lgBdGIzH/nrg3LYhXceynyvTc8t5/GD4Ri0/ng==",
       "type": "package",
       "path": "system.reflection.emit.ilgeneration/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3202,11 +3207,12 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.3.0": {
-      "sha512": "njftDA1k4UMC6Jh2XTOkN9UNtlrmcMuKfhsaSyJorgPUfnjoiIJGg4MYnqvbMfdWS8dkrwO6UQf8IG1WZIIaXg==",
+      "sha512": "oadVHGSMsTmZsAF864QYN1t1QzZjIcuKU3l2S9cZOwDdDueNTrqq1yRj7koFfIGEnKpt6NjpL3rOzRhs4ryOgA==",
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3358,11 +3364,12 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.3.0": {
-      "sha512": "19YjJzCvSDB8oAtv9FkA0hVi610U8eNNlKd/y9h+q+vh8CDRwdxpnPGbOTdQrgQxTGlBwgh7pL9foKh3E9/swA==",
+      "sha512": "7u6ulLcZbyxB5Gq0nMkQttcdBTx57ibzw+4IOXEfR+sXYQoHvjW5LTLyNr8O22UIMrqYbchJQJnos4eooYzYJA==",
       "type": "package",
       "path": "system.reflection.typeextensions/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4273,11 +4280,12 @@
       ]
     },
     "System.Threading.Thread/4.3.0": {
-      "sha512": "UzltJN9GpXhdbws1MaeRLTSyZtLVZT7qjzbNpNpQ0R83d7lHUM+NFEScWoxOLUyoK1zXeTZFK9m0kg6KcI4eog==",
+      "sha512": "OHmbT+Zz065NKII/ZHcH9XO1dEuLGI1L2k7uYss+9C1jLxTC9kTZZuzUOyXHayRk+dft9CiDf3I/QZ0t8JKyBQ==",
       "type": "package",
       "path": "system.threading.thread/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4312,11 +4320,12 @@
       ]
     },
     "System.Threading.ThreadPool/4.3.0": {
-      "sha512": "pxCj5OJis04Xwno2BpskRtFL9wQXXjAz/jad+W82ZY/S2IBwW2f3efyVi7wE0OB3hfSgfQceDreH40oZFxKlaQ==",
+      "sha512": "k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
       "type": "package",
       "path": "system.threading.threadpool/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4500,7 +4509,7 @@
       ]
     },
     "System.Xml.XPath.XmlDocument/4.3.0": {
-      "sha512": "91tvfHWHSrYFPolCwWYqbpo1YaoBUCQ3uNZ/O/zr0ev5BnkoATJoie16ywlMVUaXZtfSfNELxhtG3aqpTfwR4w==",
+      "sha512": "A/uxsWi/Ifzkmd4ArTLISMbfFs6XpRPsXZonrIqyTY70xi8t+mDtvSM5Os0RqyRDobjMBwIDHDL4NOIbkDwf7A==",
       "type": "package",
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "files": [
@@ -4548,32 +4557,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SNayager632.SIG\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/stephanienayager/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\development\\MyGitHub\\TestAutomationUniversity\\test-automation-framework-csharp\\VSCode\\scripting-to-framework\\Royale.Tests\\Royale.Tests.csproj",
+      "projectUniqueName": "/Users/stephanienayager/Learning/Github/Portfolio/TestAutomationUniversity/test-automation-framework-csharp/VSCode/scripting-to-framework/Royale.Tests/Royale.Tests.csproj",
       "projectName": "Royale.Tests",
-      "projectPath": "d:\\development\\MyGitHub\\TestAutomationUniversity\\test-automation-framework-csharp\\VSCode\\scripting-to-framework\\Royale.Tests\\Royale.Tests.csproj",
-      "packagesPath": "C:\\Users\\SNayager632.SIG\\.nuget\\packages\\",
-      "outputPath": "d:\\development\\MyGitHub\\TestAutomationUniversity\\test-automation-framework-csharp\\VSCode\\scripting-to-framework\\Royale.Tests\\obj\\",
+      "projectPath": "/Users/stephanienayager/Learning/Github/Portfolio/TestAutomationUniversity/test-automation-framework-csharp/VSCode/scripting-to-framework/Royale.Tests/Royale.Tests.csproj",
+      "packagesPath": "/Users/stephanienayager/.nuget/packages/",
+      "outputPath": "/Users/stephanienayager/Learning/Github/Portfolio/TestAutomationUniversity/test-automation-framework-csharp/VSCode/scripting-to-framework/Royale.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\SNayager632.SIG\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/stephanienayager/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://pricing-nuget.sportingsolutions.com/nuget/feed/": {},
-        "http://pricing.tooling.he.gb.sportingindex.com/Nuget/feed/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4626,7 +4631,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   }

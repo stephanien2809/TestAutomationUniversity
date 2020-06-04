@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\development\\MyGitHub\\TestAutomationUniversity\\test-automation-framework-csharp\\VSCode\\scripting-to-framework\\Royale.Tests\\Royale.Tests.csproj": {}
+    "/Users/stephanienayager/Learning/Github/Portfolio/TestAutomationUniversity/test-automation-framework-csharp/VSCode/scripting-to-framework/Royale.Tests/Royale.Tests.csproj": {}
   },
   "projects": {
-    "D:\\development\\MyGitHub\\TestAutomationUniversity\\test-automation-framework-csharp\\VSCode\\scripting-to-framework\\Royale.Tests\\Royale.Tests.csproj": {
+    "/Users/stephanienayager/Learning/Github/Portfolio/TestAutomationUniversity/test-automation-framework-csharp/VSCode/scripting-to-framework/Royale.Tests/Royale.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\development\\MyGitHub\\TestAutomationUniversity\\test-automation-framework-csharp\\VSCode\\scripting-to-framework\\Royale.Tests\\Royale.Tests.csproj",
+        "projectUniqueName": "/Users/stephanienayager/Learning/Github/Portfolio/TestAutomationUniversity/test-automation-framework-csharp/VSCode/scripting-to-framework/Royale.Tests/Royale.Tests.csproj",
         "projectName": "Royale.Tests",
-        "projectPath": "D:\\development\\MyGitHub\\TestAutomationUniversity\\test-automation-framework-csharp\\VSCode\\scripting-to-framework\\Royale.Tests\\Royale.Tests.csproj",
-        "packagesPath": "C:\\Users\\SNayager632.SIG\\.nuget\\packages\\",
-        "outputPath": "D:\\development\\MyGitHub\\TestAutomationUniversity\\test-automation-framework-csharp\\VSCode\\scripting-to-framework\\Royale.Tests\\obj\\",
+        "projectPath": "/Users/stephanienayager/Learning/Github/Portfolio/TestAutomationUniversity/test-automation-framework-csharp/VSCode/scripting-to-framework/Royale.Tests/Royale.Tests.csproj",
+        "packagesPath": "/Users/stephanienayager/.nuget/packages/",
+        "outputPath": "/Users/stephanienayager/Learning/Github/Portfolio/TestAutomationUniversity/test-automation-framework-csharp/VSCode/scripting-to-framework/Royale.Tests/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\SNayager632.SIG\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/stephanienayager/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://pricing-nuget.sportingsolutions.com/nuget/feed/": {},
-          "http://pricing.tooling.he.gb.sportingindex.com/Nuget/feed/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }
